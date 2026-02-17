@@ -1,2 +1,2 @@
-# vps-project-1771326795562
-VPS Instance - 2026-02-17T11:13:15.562Z
+# VPS Project - vps-project-1771326795562
+Password: hieudz
